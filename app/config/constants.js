@@ -1,4 +1,4 @@
-const APP_DATA_NAME = 'Vicarious Network Launcher'
+const APP_DATA_NAME = 'Origine Launcher'
 const LIVE_DISTRIBUTION_URL = 'http://originecraft.fr/distribution.json'
 const DEV_DISTRIBUTION_URL = 'https://launcher.vicariousnetwork.com/dev_distribution.json'
 
