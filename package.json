@@ -1,13 +1,13 @@
 {
   "name": "originelauncher",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "productName": "Origine Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Viazel (https://github.com/Viazel/)",
   "license": "MIT",
-  "homepage": "https://github.com/VicariousNetwork/VNLauncher",
+  "homepage": "https://github.com/Viazel/OrigineLauncher",
   "bugs": {
-    "url": "https://github.com/VicariousNetwork/VNLauncher/issues"
+    "url": "https://github.com/Viazel/OrigineLauncher"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VicariousNetwork/VNLauncher.git"
+    "url": "git+https://github.com/Viazel/OrigineLauncher.git"
   }
 }
