@@ -1,11 +1,11 @@
 {
   "name": "originelauncher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "productName": "Origine Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Viazel (https://github.com/Viazel/)",
   "license": "MIT",
-  "homepage": "https://github.com/Viazel/OrigineLauncher",
+  "homepage": "https://github.com/Viazel/OrigineLauncher/",
   "bugs": {
     "url": "https://github.com/Viazel/OrigineLauncher"
   },

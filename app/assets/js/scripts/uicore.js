@@ -43,10 +43,10 @@ if(!isDev){
         switch(arg){
             case 'checking-for-update':
                 loggerAutoUpdater.log('Checking for update..')
-                settingsUpdateButtonStatus('Checking for Updates..', true)
+                settingsUpdateButtonStatus('Recherche de mise à jour..', true)
                 break
             case 'update-available':
-                loggerAutoUpdaterSuccess.log('New update available', info.version)
+                loggerAutoUpdaterSuccess.log('Nouvelle mise à jour disponible !', info.version)
                 
                 if(process.platform === 'darwin'){
                     info.darwindownload = `https://github.com/VicariousNetwork/VNLauncher/releases/download/v${info.version}/VNLauncher-setup-${info.version}${process.arch === 'arm64' ? '-arm64' : ''}.dmg`
